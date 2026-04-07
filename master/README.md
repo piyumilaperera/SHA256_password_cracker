@@ -114,6 +114,21 @@ You will be prompted for:
 demonstrating :- 
 
 
+As you can see, i used actual rockyou wordlist and put my test string at very end
+
+<p align="center">
+  <img src="https://github.com/piyumilaperera/SHA256_password_cracker/blob/master/master/media/wordlist.png"></p>
+
+As you can see, i took only 0.0926 seconds, also keep in mind this is the worst case senario (my target string is at the very end of wordlist)
+
+<p align="center">
+  <img src="https://github.com/piyumilaperera/SHA256_password_cracker/blob/master/master/media/run.png"></p>
+
+---
+
+## Special note
+
+To be honest, I relied on AI tools to make this tool work. Although I have some basic knowledge of pthreads, it was not sufficient. In the initial testing stages, I used only my own knowledge to write the code, but it was not very efficient. Therefore, I had to incorporate more advanced concepts. However, due to limited time and the fact that programming is not my main focus, I received a lot of support from AI.
 
 ---
 
