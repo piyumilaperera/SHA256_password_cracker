@@ -1,0 +1,11 @@
+# Compiled files
+*.out
+*.exe
+*.o
+
+# Linux build
+password_cracker
+a.out
+
+# macOS
+.DS_Store
